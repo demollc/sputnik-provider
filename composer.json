@@ -1,5 +1,5 @@
 {
-    "name": "geocoder-php/sputnik-provider",
+    "name": "demollc/sputnik-provider",
     "type": "library",
     "description": "Geocoder Sputnik adapter",
     "keywords": [],
