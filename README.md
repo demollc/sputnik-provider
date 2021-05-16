@@ -1,4 +1,6 @@
 # Sputnik Geocoder provider
+[![Latest Stable Version](https://poser.pugx.org/demollc/sputnik-provider/v/stable)](https://packagist.org/packages/demollc/sputnik-provider)
+[![Total Downloads](https://poser.pugx.org/demollc/sputnik-provider/downloads)](https://packagist.org/packages/demollc/sputnik-provider)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 
 This is the Sputnik provider from DemoLLC. 
