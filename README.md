@@ -22,6 +22,8 @@ $geocoder = new \Geocoder\Provider\Sputnik\Sputnik($httpClient, null, '<your-api
 $result = $geocoder->geocodeQuery(GeocodeQuery::create('ул. Генерала Лизюкова, 4, Воронеж'));
 $result = $geocoder->reverseQuery(ReverseQuery::fromCoordinates(...));
 ```
+### Note
+Reverse Query endpoint is frequently down and methods are created by manual.
 
 ### Contribute
 
